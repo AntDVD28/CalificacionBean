@@ -28,15 +28,15 @@ Pasos a seguir:
 
 7) Realizar el desarrollo del componente.
 
-8) Generar el .jar del bean para ello hacemos uso de la herramienta de Netbeans llamada "Limpiar y Construir"
+8) Generar el .jar del bean, para ello hacemos uso de la herramienta de Netbeans llamada "Limpiar y Construir".
 
-9) Creación en Netbeans de un proyecto de prueba para poder probar nuestro bean, lo llamaremos "PruebaCalifiacionBean" con clase principal.
+9) Creación en Netbeans de un proyecto de prueba para poder probar nuestro bean, lo llamaremos "PruebaCalifiacionBean", con clase principal.
 
 10) Agregar a las Bibliotecas del proyecto el driver JDBC de MySQL y el .jar del bean.
 
 11) Realizar el desarrollo de las clases que hacen uso del bean.
 
-12) Compilar el proyecto "PruebaCalifiacionBean"
+12) Compilar el proyecto "PruebaCalifiacionBean".
 
 
 
