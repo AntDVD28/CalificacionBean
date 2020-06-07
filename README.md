@@ -5,7 +5,7 @@ Los java beans (o componentes) usan los eventos para generar acciones. En nuestr
 
 Utilizaremos una Base de Datos Relacional. 
 
-Icluimos el driver JDBC utilizado para MySQL
+Incluimos el driver JDBC utilizado para MySQL
 
 Incluimos el archivo alumnos.sql para crear la estructura y volcado de registros.
 
